@@ -1,16 +1,20 @@
-### Hi there 👋
+<video playsinline="" autoplay="" muted="" loop="">
+<source src="https://raw.githubusercontent.com/erencanutku/erencanutku/master/Assets/video.mp4" type="video/mp4">
+</video>
+I'm a tech enthusiast who loves to learn about new things.
 
-<!--
-**ErenCanUtku/ErenCanUtku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='200"'>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Instagram Badge](https://img.shields.io/badge/-eren_can_utku-232931?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eren_can_utku/)](https://www.instagram.com/eren_can_utku/)
+[![Website Badge](https://img.shields.io/badge/-erencanutku.github.io-4ecca3?style=flat-square&logo=HTML5&logoColor=white&link=https://erencanutku.github.io/)](https://erencanutku.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-erencanutku@hotmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erencanutku@hotmail.com)](mailto:erencanutku@hotmail.com)
+##  About Me:
+- Firstly i can say, i am a student
+- I'm created many web sites with asp.net and bootstrap
+- Mostly i use c# for creating projects
+- I'm creating video games with unity
+- I love learning new things
+- 🔭 I’m currently working on https://github.com/ErenCanUtku/MyNote
+- 🌱 I’m currently learning android studio and java
