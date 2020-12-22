@@ -1,6 +1,4 @@
-<video playsinline="" autoplay="" muted="" loop="">
-<source src="https://raw.githubusercontent.com/erencanutku/erencanutku/master/Assets/video.mp4" type="video/mp4">
-</video>
+<img align='right' src='https://raw.githubusercontent.com/ErenCanUtku/ErenCanUtku/master/Assets/Hi.gif' width='1400"'>
 I'm a tech enthusiast who loves to learn about new things.
 
 <img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='200"'>
