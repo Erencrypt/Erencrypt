@@ -14,5 +14,5 @@ I'm a tech enthusiast who loves to learn about new things.
 - Mostly i use c# for creating projects
 - I'm creating video games with unity
 - I love learning new things
-- I’m currently working on https://github.com/ErenCanUtku/MyNote
+- I’m currently working on https://github.com/ErenCanUtku/FromFarmer
 - I’m currently learning android studio and java
