@@ -1,7 +1,8 @@
 <img align='right' src='https://raw.githubusercontent.com/ErenCanUtku/ErenCanUtku/master/Assets/Hi.gif' width='1400"'>
-I'm a tech enthusiast who loves to learn about new things.
 
-<img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='360'>
+**I'm a tech enthusiast who loves to learn about new things.**
+
+<img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='320'>
 
 
 
