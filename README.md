@@ -10,6 +10,6 @@
 ##  About Me:
 - I created many web sites with asp.net and bootstrap
 - I use c# for most of my projects
-- I used Unity gameengine for a while to create simple games
+- I used Unity game engine for a while to create simple games
 - I love learning new things
 - Im currently working on a project named <a href='https://github.com/ErenCanUtku/MyNotes/'>MyNotes</a>
