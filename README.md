@@ -15,4 +15,4 @@
 <br/><br/>
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=erencrypt&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=0d1117&hide_border=true&show_icons=true" align='left' width="400" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=erencrypt&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align='right' width="400" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=erencrypt&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=0d1117&hide_border=true&show_icons=true&hide_title=true" width="420" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=erencrypt&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align='right' width="400" height="170"/>
