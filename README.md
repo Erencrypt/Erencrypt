@@ -10,7 +10,7 @@
 - I use c# for most of my projects
 - I used Unity game engine for a while to create simple games
 - I love learning new things
-- Im currently working on <a href='https://github.com/ErenCanUtku/MyNotes/'>MyNotes</a>
+- Im currently working on <a href='https://github.com/Erencrypt/MyNotes/'>MyNotes</a>
 
 <br/><br/>
 <b>My GitHub Stats</b>
