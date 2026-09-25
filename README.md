@@ -1,10 +1,12 @@
 <img align='right' src='https://raw.githubusercontent.com/Erencrypt/Erencrypt/master/Assets/Hi.gif' width='1400"'>
 
+**I'm a tech enthusiast who loves to learn about new things.**
+
+
+
 <img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='320' style='z-index:999;'>
 
 ##  About Me:
-
-**I'm a tech enthusiast who loves to learn about new things.**
 
 - I created many web sites with asp.net and bootstrap
 - I use c# for most of my projects
