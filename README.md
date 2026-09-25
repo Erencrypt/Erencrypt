@@ -1,6 +1,6 @@
 <img align='right' src='https://raw.githubusercontent.com/Erencrypt/Erencrypt/master/Assets/Hi.gif' width='1400"'>
 
-<img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='320' style='z-index:99;'>
+<img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='320' style='z-index:999;'>
 
 ##  About Me:
 
@@ -15,6 +15,6 @@
 <br/><br/>
 <b>My GitHub Stats</b>
 
-<img style="z-index:2;" src="https://github-readme-stats.vercel.app/api?username=erencrypt&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=0d1117&hide_border=true&show_icons=true&hide_title=true" width="426" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=erencrypt&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align='right' width="394" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=erencrypt&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=0d1117&hide_border=true&show_icons=true&hide_title=true" width="426" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=erencrypt&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align='right' width="394" height="170"/>
 
 ![snake gif](https://raw.githubusercontent.com/Erencrypt/Erencrypt/master/Assets/github-contribution-grid-snake-dark.svg)
