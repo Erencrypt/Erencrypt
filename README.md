@@ -12,10 +12,10 @@
 - Im currently working on <a href='https://github.com/Erencrypt/MyNotes/'>MyNotes</a>
 
 <br/>
-
+<!--
 ##  My GitHub Stats
 
 ![](https://github.com/Erencrypt/githubstats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Erencrypt/githubstats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Erencrypt/githubstats/blob/generated/languages.svg#gh-dark-mode-only)-->
 
 ![snake gif](https://raw.githubusercontent.com/Erencrypt/Erencrypt/master/Assets/github-contribution-grid-snake-dark.svg)
