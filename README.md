@@ -7,7 +7,7 @@ I'm a tech enthusiast who loves learning new things and building useful software
 About Me
 
 ##  About Me:
-<img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='220' style='z-index:999;'>
+<img align='right' src='https://raw.githubusercontent.com/Erencrypt/Erencrypt/main/Assets/work.gif' width='220' style='z-index:999;'>
 
 💻 I mainly work with C# and ASP.NET Core.
 
