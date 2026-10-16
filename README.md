@@ -1,4 +1,4 @@
-<img align='right' src='https://raw.githubusercontent.com/Erencrypt/Erencrypt/master/Assets/Hi.gif' width='1400'/>
+<img align='right' src='https://raw.githubusercontent.com/Erencrypt/Erencrypt/main/Assets/Hi.gif' width='1400'/>
 
 **Hi there!** 👋
 
@@ -44,10 +44,10 @@ About Me
 </div>
 
 <br/>
-<!--
+
 ##  My GitHub Stats
 
 ![](https://github.com/Erencrypt/githubstats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Erencrypt/githubstats/blob/generated/languages.svg#gh-dark-mode-only)-->
+![](https://github.com/Erencrypt/githubstats/blob/generated/languages.svg#gh-dark-mode-only)
 
-![snake gif](https://raw.githubusercontent.com/Erencrypt/Erencrypt/master/Assets/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Erencrypt/Erencrypt/main/Assets/github-contribution-grid-snake-dark.svg)
