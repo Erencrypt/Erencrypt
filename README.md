@@ -1,15 +1,47 @@
-<img align='right' src='https://raw.githubusercontent.com/Erencrypt/Erencrypt/master/Assets/Hi.gif' width='1400"'>
+<img align='right' src='https://raw.githubusercontent.com/Erencrypt/Erencrypt/master/Assets/Hi.gif' width='1400'/>
 
-**I'm a tech enthusiast who loves to learn about new things.**
+**Hi there!** 👋
+
+I'm a tech enthusiast who loves learning new things and building useful software.
+
+About Me
 
 ##  About Me:
 <img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='220' style='z-index:999;'>
 
-- I created many web sites with asp.net and bootstrap
-- I use c# for most of my projects
-- I used Unity game engine for a while to create simple games
-- I love learning new things
-- Im currently working on <a href='https://github.com/Erencrypt/MyNotes/'>MyNotes</a>
+💻 I mainly work with C# and ASP.NET Core.
+
+🌐 I build web applications using React, TypeScript, and ASP.NET Core Web APIs.
+
+🎨 I've worked with Bootstrap and enjoy exploring modern frontend technologies.
+
+🛠️ I enjoy refactoring code, solving problems, and improving my projects.
+
+📝 I'm currently working on MyNotes, a Windows desktop application.
+
+## Tech Stack
+
+<div>
+  Languages & Frameworks
+  <p>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,ts,js,react,html,css,bootstrap,tailwind" alt="Languages and Frameworks" />
+  </p>
+  
+  Tools & Technologies
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,vite,stackoverflow,sqlite" alt="Tools and Technologies" />
+  </p>
+  
+  Know a bit
+  <p>
+    <img src="https://skillicons.dev/icons?i=bitbucket,autocad,firebase,php,py,linux" />
+  </p>
+  
+  Hobbies
+  <p>
+    <img src="https://skillicons.dev/icons?i=arduino,unity"/>
+  </p>
+</div>
 
 <br/>
 <!--
