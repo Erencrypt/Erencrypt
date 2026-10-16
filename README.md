@@ -58,8 +58,6 @@ About Me
     </tr>
   </table>
 
-<br/>
-
 ##  My GitHub Stats
 
 ![](https://github.com/Erencrypt/githubstats/blob/generated/overview.svg#gh-dark-mode-only)
