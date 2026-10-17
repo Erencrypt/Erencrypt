@@ -17,7 +17,7 @@ About Me
 
 🛠️ I enjoy refactoring code, solving problems, and improving my projects.
 
-📝 I'm currently working on MyNotes, a Windows desktop application.
+📝 I'm currently working on [**MyNotes**](https://github.com/Erencrypt/MyNotes), a WinUI3 Windows desktop application.
 
 ## Tech Stack
 
